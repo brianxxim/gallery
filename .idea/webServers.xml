@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2818131f-9c8c-4abe-bc84-d81873f5148f" name="Azure-gallery">
+        <fileTransfer accessType="SFTP" host="52.142.13.19" port="22" sshConfigId="dba454a9-cf26-4fb1-abd4-e8b2ab4b8a72" sshConfig="Azure">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
